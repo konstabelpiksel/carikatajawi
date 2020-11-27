@@ -68,6 +68,51 @@ h4{
 	background-image: url(nu-hl-dd.png);
 	background-position: center center;
 }
+.solda.soldd{
+	background-image: url(nu-hl-da-dd.png);
+	background-position: center center;
+}
+.solh.solda{
+	background-image: url(nu-hl-h-da.png);
+	background-position: center center;
+}
+.solh.soldd{
+	background-image: url(nu-hl-h-dd.png);
+	background-position: center center;
+}
+.solv.solda{
+	background-image: url(nu-hl-v-da.png);
+	background-position: center center;
+}
+.solv.soldd{
+	background-image: url(nu-hl-v-dd.png);
+	background-position: center center;
+}
+.solv.solh{
+	background-image: url(nu-hl-v-h.png);
+	background-position: center center;
+}
+.solh.solda.soldd{
+	background-image: url(nu-hl-h-da-dd.png);
+	background-position: center center;
+}
+.solv.solda.soldd{
+	background-image: url(nu-hl-v-da-dd.png);
+	background-position: center center;
+}
+.solv.solh.solda{
+	background-image: url(nu-hl-v-h-da.png);
+	background-position: center center;
+}
+.solv.solh.soldd{
+	background-image: url(nu-hl-v-h-dd.png);
+	background-position: center center;
+}
+.solv.solh.solda.soldd{
+	background-image: url(nu-hl-v-h-da-dd.png);
+	background-position: center center;
+}
+
 .solved{
 	font-color:#000;
 }
